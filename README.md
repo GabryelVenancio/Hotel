@@ -1,4 +1,4 @@
-# Hotel
+# Hotel# Hotel
 
 Este é um código HTML com JavaScript embutido que simula um sistema de reservas e serviços de um hotel. Abaixo está uma descrição das funcionalidades e como o programa opera:
 
@@ -7,12 +7,12 @@ Este é um código HTML com JavaScript embutido que simula um sistema de reserva
 <p>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 Logo" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo" width="40" height="40"/>
 </p>
 
 - **Java**
 - **Python**
-- **HTML**
+- **JavaScript**
 
 ## Funcionalidades
 

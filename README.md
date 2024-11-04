@@ -1,4 +1,4 @@
-# Hotel# Hotel
+# Hotel
 
 Este é um código HTML com JavaScript embutido que simula um sistema de reservas e serviços de um hotel. Abaixo está uma descrição das funcionalidades e como o programa opera:
 
